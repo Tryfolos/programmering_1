@@ -1,2 +1,2 @@
-python uppgift_3.3.py
+python if_else_elif.py
 cmd/k
