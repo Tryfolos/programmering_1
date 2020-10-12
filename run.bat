@@ -1,2 +1,2 @@
-python if_else_elif.py
+python postnord.py
 cmd/k
